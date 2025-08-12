@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**Shanikah-Boyce/Shanikah-Boyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋🏼 Hello, I’m Jaden
 
 I'm an aspiring Cloud Engineer from Barbados, driven to craft secure, scalable, and cost-effective solutions using AWS technologies. My core strength lies in designing cloud architectures that strike a balance between performance, resilience, and maintainability.
@@ -101,21 +84,17 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 
 > *🧠 Outcome:* Delivered a scalable, secure, and user-friendly chatbot showcasing best practices in conversational AI, serverless architecture and user-centric design.
 
-
 ---
 
 ## 📚 Currently Learning
-
-- Advanced AWS networking  
-- Kubernetes fundamentals  
-- Terraform for infrastructure as code  
+- Terraform and CloudFormation for infrastructure as code  
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **CompTIA Security+** — *Achieved Jan 2025*  
-- 🏗️ **AWS Certified Solutions Architect – Associate** — *In Progress, expected Sept 2025*  
+- **CompTIA Security+** - *Achieved Jan 2025*  
+- **AWS Certified Solutions Architect – Associate** - *In Progress, expected Dec 2026*  
 
 ---
 
@@ -124,9 +103,8 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 Open to professional connections, collaboration, and discussions related to cloud architecture and automation.
 
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 Email: your.email@example.com *(optional)*  
 
-Feel free to reach out—whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
+Feel free to reach out, whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
 
 ---
 
