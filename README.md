@@ -85,7 +85,7 @@ Containerized a lightweight web application using Docker and deployed it to AWS 
 
 > 🧠 Outcome: Delivered a lightweight, scalable web application infrastructure with seamless deployment from local container to cloud-hosted environment.
 
-📄 View the full project repository (link coming soon)
+📄 [View the full project repository](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker)
 
 ### 🤖 BankerBot: AI-Driven Banking Assistant with Amazon Lex & AWS Lambda
 Built a secure, serverless chatbot to streamline banking interactions using Amazon Lex V2 and AWS Lambda. BankerBot handles balance checks, fund transfers, greetings, and fallback responses—via both voice and text.
