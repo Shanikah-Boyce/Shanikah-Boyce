@@ -83,7 +83,7 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 - AWS Lambda functions for dynamic responses, slot validation, and backend logic
 - FallbackIntent for graceful handling of unsupported or ambiguous inputs
 
-📄 View the full project repository (link coming soon)
+📄 [View the full project repository](https://github.com/Shanikah-Boyce/BankerBot-AI-Chatbot-with-Amazon-Lex-AWS-Lambda)
 
 > *🧠 Outcome:* Delivered a scalable, secure, and user-friendly chatbot showcasing best practices in conversational AI, serverless architecture and user-centric design.
 
