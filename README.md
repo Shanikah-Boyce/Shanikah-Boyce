@@ -73,6 +73,20 @@ Developed a robust CI/CD pipeline for a Java web application to eliminate manual
 
 > 🧠 *Outcome:* Reduced deployment time by 40% and improved release reliability.
 
+### 📦 Containerizing a Web Application with Docker and AWS Elastic Beanstalk
+Containerized a lightweight web application using Docker and deployed it to AWS Elastic Beanstalk, enabling scalable and repeatable deployment from local development to production.
+
+**Core components:**
+- Dockerfile based on the official Nginx image serving a custom HTML page
+- Custom image built and tested locally using Docker CLI
+- Elastic Beanstalk environment configured with Docker platform
+- Application packaged and deployed as a versioned ZIP archive
+- Public access enabled via default VPC settings
+
+> 🧠 Outcome: Delivered a lightweight, scalable web application infrastructure with seamless deployment from local container to cloud-hosted environment.
+
+📄 View the full project repository (link coming soon)
+
 ### 🤖 BankerBot: AI-Driven Banking Assistant with Amazon Lex & AWS Lambda
 Built a secure, serverless chatbot to streamline banking interactions using Amazon Lex V2 and AWS Lambda. BankerBot handles balance checks, fund transfers, greetings, and fallback responses—via both voice and text.
 
