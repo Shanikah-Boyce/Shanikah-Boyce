@@ -73,6 +73,21 @@ Developed a robust CI/CD pipeline for a Java web application to eliminate manual
 
 > 🧠 *Outcome:* Reduced deployment time by 40% and improved release reliability.
 
+### 🤖 BankerBot: AI-Driven Banking Assistant with Amazon Lex & AWS Lambda
+Built a secure, serverless chatbot to streamline banking interactions using Amazon Lex V2 and AWS Lambda. BankerBot handles balance checks, fund transfers, greetings, and fallback responses—via both voice and text.
+
+**Core components:**
+- Lex V2 bot with 0.40 confidence threshold for high-accuracy intent matching
+- Custom slot type for accountType: "Checking", "Savings", "Credit" (Visa, Mastercard, Amex)
+- Context tracking with input/output tags for seamless multi-turn conversations
+- AWS Lambda functions for dynamic responses, slot validation, and backend logic
+- FallbackIntent for graceful handling of unsupported or ambiguous inputs
+
+📄 View the full project repository (link coming soon)
+
+> *🧠 Outcome:* Delivered a scalable, secure, and user-friendly chatbot showcasing best practices in conversational AI, serverless architecture and user-centric design.
+
+
 ---
 
 ## 📚 Currently Learning
