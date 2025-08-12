@@ -1,3 +1,8 @@
+![Header](<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/6708e74d-aa4e-49b3-a253-ab8a8303df6c" />)
+
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/288c8ba6-a9b4-4d1f-b16a-8da262b83407" />
+
+
 # 👋🏼 Hello, I’m Shanikah
 
 I'm an aspiring Cloud Engineer from **Barbados**, driven to craft secure, scalable and cost-effective solutions using AWS technologies. My core strength lies in designing cloud architectures that strike a balance between performance, resilience, and maintainability.
