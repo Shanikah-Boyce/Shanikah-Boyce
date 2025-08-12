@@ -44,6 +44,21 @@ I leverage a broad range of AWS services to design secure, scalable, and automat
 ---
 
 ## 🚀 Selected Projects
+### 🛡️ Secure AWS VPC Architecture
+Designed a secure and scalable AWS Virtual Private Cloud (VPC) architecture to support sensitive workloads with strong isolation, encrypted communication and layered network security.
+
+**Core components:**
+- Custom VPC manually deployed in us-east-1 with CIDR 10.1.0.0/16
+- Public and private subnets for workload separation
+- Multi-layered traffic control using Network ACLs and Security Groups
+- VPC Peering between NovaGrid-1 and NovaGrid-2 for private inter-VPC communication
+- Private S3 access via Gateway Endpoint with restrictive bucket policies
+- Real-time traffic monitoring using VPC Flow Logs and CloudWatch Log Insights
+- Secure admin access via EC2 Instance Connect (no open SSH ports)
+
+📄 [View the full project repository](https://github.com/Shanikah-Boyce/Building-a-Virtual-Private-Cloud)
+
+> 🧠 *Outcome:* Enforced zero-trust access, improved network observability, and enabled scalable multi-environment infrastructure.
 
 ### 🔐 Secure CI/CD Pipeline
 Developed a robust CI/CD pipeline for a Java web application to eliminate manual errors and enable secure, zero-downtime deployments.
@@ -58,48 +73,6 @@ Developed a robust CI/CD pipeline for a Java web application to eliminate manual
 
 > 🧠 *Outcome:* Reduced deployment time by 40% and improved release reliability.
 
-### 🛡️ Secure AWS VPC Architecture
-Designed a secure and scalable AWS Virtual Private Cloud (VPC) architecture to support sensitive workloads with strong isolation, encrypted communication and layered network security.
-
-**Core components:**
-- Custom VPC manually deployed in us-east-1 with CIDR 10.1.0.0/16
-- Public and private subnets for workload separation
-- Multi-layered traffic control using Network ACLs and Security Groups
-- VPC Peering between NovaGrid-1 and NovaGrid-2 for private inter-VPC communication
-- Private S3 access via Gateway Endpoint with restrictive bucket policies
-- Real-time traffic monitoring using VPC Flow Logs and CloudWatch Log Insights
-- Secure admin access via EC2 Instance Connect (no open SSH ports)
-
-📄 View the full project repository (link coming soon)
-📄 [View the full project repository](https://github.com/Shanikah-Boyce/Building-an-Automated-CI-CD-Pipeline-with-AWS-for-Java-Web-Applications)
-
-🧠 Outcome: Enforced zero-trust access, improved network observability, and enabled scalable multi-environment infrastructure.
-
-
-
-
-### 🛡️ Secure AWS VPC Architecture
-Designed a secure, scalable Virtual Private Cloud (VPC) architecture to support sensitive workloads with strong isolation, encrypted communication and layered security controls.
-
-Core components:
-
-Custom VPC manually deployed in us-east-1 with CIDR 10.1.0.0/16
-
-Subnet segmentation: Public (10.1.0.0/24) and Private (10.1.1.0/24)
-
-Network ACLs & Security Groups for multi-layered traffic control
-
-VPC Peering between NovaGrid-1 and NovaGrid-2 for secure inter-VPC communication
-
-Private S3 access via Gateway Endpoint with restrictive bucket policies
-
-VPC Flow Logs streamed to CloudWatch for real-time traffic visibility
-
-EC2 Instance Connect used for secure admin access without open SSH ports
-
-📄 Architecture diagrams and configuration details available in the full project repository.
-
-🧠 Outcome: Hardened network perimeter, enforced zero-trust access, and enabled scalable multi-environment infrastructure with strong observability.
 ---
 
 ## 📚 Currently Learning
