@@ -106,15 +106,6 @@ Open to professional connections, collaboration, and discussions related to clou
 
 Feel free to reach out, whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
 
----
-
-## 🖼️ Bonus Suggestions (Optional)
-
-If you'd like to go further:
-- Add a **banner image** to your GitHub profile.
-- Pin your top repositories.
-- Include a **GitHub stats card** or visitor badge.
 
 ---
 
-Let me know if you'd like help designing a banner, writing READMEs for your other projects, or setting up GitHub Pages for a personal site. I’ve got ideas!
