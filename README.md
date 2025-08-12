@@ -17,20 +17,11 @@ Here are some ideas to get you started:
 
 # 👋🏼 Hello, I’m Jaden
 
-I'm an aspiring **Cloud Engineer** from **Barbados**, driven to craft secure, scalable, and cost-effective solutions using **AWS technologies**. My core strength lies in designing cloud architectures that strike a balance between performance, resilience, and maintainability.
+I'm an aspiring Cloud Engineer from Barbados, driven to craft secure, scalable, and cost-effective solutions using AWS technologies. My core strength lies in designing cloud architectures that strike a balance between performance, resilience, and maintainability.
 
-I approach cloud engineering with a **security-first mindset** and a deep appreciation for strategic planning and thoughtful design. My goal is to contribute to innovative projects that challenge convention and advance the possibilities of cloud computing.
+I approach cloud engineering with a security-first mindset and a deep appreciation for strategic planning and thoughtful design. My goal is to contribute to innovative projects that challenge convention and advance the possibilities of cloud computing.
 
-I thrive in collaborative spaces where **curiosity fuels innovation** and **learning never stops**. For me, cloud engineering is not just about technology—it's about building systems that help people and ideas thrive. The most effective solutions combine technical skill with clear vision, intentional execution, and a constant drive to improve.
-
----
-
-## 📑 Table of Contents
-- [🛠️ Technical Expertise](#️-technical-expertise)
-- [🚀 Selected Projects](#-selected-projects)
-- [📚 Currently Learning](#-currently-learning)
-- [📜 Certifications](#-certifications)
-- [📬 Contact](#-contact)
+I thrive in collaborative spaces where curiosity fuels innovation and learning never stops. For me, cloud engineering is not just about technology; it's about building systems that help people and ideas thrive. The most effective solutions combine technical skill with clear vision, intentional execution, and a constant drive to improve.
 
 ---
 
