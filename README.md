@@ -95,7 +95,7 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 ## Certifications
 
 - **CompTIA Security+** - *Achieved Jan 2025*  
-- **AWS Certified Solutions Architect – Associate** - *In Progress, expected Dec 2026*  
+- **AWS Certified Solutions Architect – Associate** - *In Progress, expected Dec 2025*  
 
 ---
 
@@ -106,5 +106,6 @@ Open to professional connections, collaboration, and discussions related to clou
 - [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 Feel free to reach out, whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
+
 ---
 
