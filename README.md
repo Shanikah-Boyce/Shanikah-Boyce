@@ -9,9 +9,9 @@ I thrive in collaborative spaces where curiosity fuels innovation and learning n
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
-### 🌩️ AWS Services & Expertise
+### AWS Services & Expertise
 I leverage a broad range of AWS services to design secure, scalable, and automated cloud solutions:
 
 - **Compute & Networking**: EC2, Lambda, VPC, API Gateway  
@@ -20,15 +20,15 @@ I leverage a broad range of AWS services to design secure, scalable, and automat
 - **Infrastructure & Data Management**: CloudFormation, DynamoDB, Athena, QuickSight  
 - **Storage**: S3  
 
-### 🧰 Other Technologies
+### Other Technologies
 - Docker  
 - Linux  
 - Git & GitHub  
 
 ---
 
-## 🚀 Selected Projects
-### 🛡️ Secure AWS VPC Architecture
+## Selected Projects
+### Secure AWS VPC Architecture
 Designed a secure and scalable AWS Virtual Private Cloud (VPC) architecture to support sensitive workloads with strong isolation, encrypted communication and layered network security.
 
 **Core components:**
@@ -42,9 +42,9 @@ Designed a secure and scalable AWS Virtual Private Cloud (VPC) architecture to s
 
 📄 [View the full project repository](https://github.com/Shanikah-Boyce/Building-a-Virtual-Private-Cloud)
 
-> 🧠 *Outcome:* Enforced zero-trust access, improved network observability, and enabled scalable multi-environment infrastructure.
+> *Outcome:* Enforced zero-trust access, improved network observability, and enabled scalable multi-environment infrastructure.
 
-### 🔐 Secure CI/CD Pipeline
+### Secure CI/CD Pipeline
 Developed a robust CI/CD pipeline for a Java web application to eliminate manual errors and enable secure, zero-downtime deployments.
 
 **Core components:**
@@ -55,9 +55,9 @@ Developed a robust CI/CD pipeline for a Java web application to eliminate manual
 
 📄 [View the full project repository](https://github.com/Shanikah-Boyce/Building-an-Automated-CI-CD-Pipeline-with-AWS-for-Java-Web-Applications)
 
-> 🧠 *Outcome:* Reduced deployment time by 40% and improved release reliability.
+> *Outcome:* Reduced deployment time by 40% and improved release reliability.
 
-### 📦 Containerizing a Web Application with Docker and AWS Elastic Beanstalk
+### Containerizing a Web Application with Docker and AWS Elastic Beanstalk
 Containerized a lightweight web application using Docker and deployed it to AWS Elastic Beanstalk, enabling scalable and repeatable deployment from local development to production.
 
 **Core components:**
@@ -67,11 +67,11 @@ Containerized a lightweight web application using Docker and deployed it to AWS 
 - Application packaged and deployed as a versioned ZIP archive
 - Public access enabled via default VPC settings
 
-> 🧠 Outcome: Delivered a lightweight, scalable web application infrastructure with seamless deployment from local container to cloud-hosted environment.
+> Outcome: Delivered a lightweight, scalable web application infrastructure with seamless deployment from local container to cloud-hosted environment.
 
 📄 [View the full project repository](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker)
 
-### 🤖 BankerBot: AI-Driven Banking Assistant with Amazon Lex & AWS Lambda
+### BankerBot: AI-Driven Banking Assistant with Amazon Lex & AWS Lambda
 Built a secure, serverless chatbot to streamline banking interactions using Amazon Lex V2 and AWS Lambda. BankerBot handles balance checks, fund transfers, greetings, and fallback responses—via both voice and text.
 
 **Core components:**
@@ -83,30 +83,28 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 
 📄 [View the full project repository](https://github.com/Shanikah-Boyce/BankerBot-AI-Chatbot-with-Amazon-Lex-AWS-Lambda)
 
-> *🧠 Outcome:* Delivered a scalable, secure, and user-friendly chatbot showcasing best practices in conversational AI, serverless architecture and user-centric design.
+> *Outcome:* Delivered a scalable, secure, and user-friendly chatbot showcasing best practices in conversational AI, serverless architecture and user-centric design.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Terraform and CloudFormation for infrastructure as code  
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **CompTIA Security+** - *Achieved Jan 2025*  
 - **AWS Certified Solutions Architect – Associate** - *In Progress, expected Dec 2026*  
 
 ---
 
-## 📬 Contact
+## Contact
 
 Open to professional connections, collaboration, and discussions related to cloud architecture and automation.
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 Feel free to reach out, whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
-
-
 ---
 
