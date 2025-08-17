@@ -101,9 +101,8 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 
 ## Let's Connect
 I'm always open to networking and collaboration. Feel free to reach out!
-👉 [Connect with me on LinkedIn](https://bb.linkedin.com/in/shanikah-boyce)
 
-Feel free to reach out, whether it's to brainstorm ideas, collaborate on a project, or just talk tech!
+👉 [Connect with me on LinkedIn](https://bb.linkedin.com/in/shanikah-boyce)
 
 ---
 
