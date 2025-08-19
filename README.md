@@ -95,7 +95,6 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 ## Certifications
 
 - **CompTIA Security+** - *Achieved Jan 2025*  
-- **AWS Certified Solutions Architect – Associate** - *In Progress, expected Dec 2025*  
 
 ---
 
