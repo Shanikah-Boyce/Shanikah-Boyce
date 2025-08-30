@@ -17,7 +17,10 @@ I leverage a broad range of AWS services to design secure, scalable and automate
 - **CI/CD & DevOps**: CodePipeline, CodeBuild, CodeDeploy, CodeArtifact  
 - **Infrastructure as Code**: CloudFormation  
 - **Data & Analytics**: DynamoDB, Athena, QuickSight  
-- **Storage**: S3 
+- **Storage**: S3
+
+## Other Technologies 
+Docker, Linux, Git, GitHub
 ---
 
 ## Selected Projects
