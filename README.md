@@ -85,7 +85,20 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 
 ## Currently Learning
 - Terraform and CloudFormation for infrastructure as code  
+## Links
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mmaximus.soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
 
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+
+
+
+hh
 ---
 
 ## Certifications
@@ -97,7 +110,10 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 ## Let's Connect
 I'm always open to networking and collaboration. Feel free to reach out!
 
-👉 [Connect with me on LinkedIn](https://bb.linkedin.com/in/shanikah-boyce)
+<a href="[https://www.linkedin.com/in/maximus-soare](https://bb.linkedin.com/in/shanikah-boyce/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
 
 ---
 
