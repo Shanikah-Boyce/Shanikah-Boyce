@@ -29,10 +29,10 @@ I leverage a broad range of AWS services to design secure, scalable and automate
 
 | Project | Description | Tech Highlights | Repo |
 |--------|-------------|-----------------|------|
-| **Secure AWS VPC Architecture** | Built a secure, scalable VPC with subnet isolation, encrypted S3 access, and EC2 Instance Connect. | VPC • Subnets • NACLs • Security Groups • CloudWatch | [🔗](https://github.com/Shanikah-Boyce/Building-a-Virtual-Private-Cloud) |
-| **CI/CD Pipeline for Java Web App** | Automated build, test, and deployment using AWS services. | CodePipeline • CodeBuild • CodeDeploy • CodeArtifact | [🔗](https://github.com/Shanikah-Boyce/Building-an-Automated-CI-CD-Pipeline-with-AWS-for-Java-Web-Applications) |
-| **Dockerized Web App on Elastic Beanstalk** | Containerized and deployed a web app using Docker and AWS Elastic Beanstalk. | Docker • Elastic Beanstalk • Nginx • AWS CLI | [🔗](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker) |
-| **BankerBot: AI Banking Assistant** | Serverless chatbot with Amazon Lex V2 and AWS Lambda for secure banking interactions. | Lex V2 • Lambda • IAM • FallbackIntent • Slot Types | [🔗](https://github.com/Shanikah-Boyce/BankerBot-AI-Chatbot-with-Amazon-Lex-AWS-Lambda) |
+| **Secure AWS VPC Architecture** | Built a secure, scalable VPC with subnet isolation, encrypted S3 access, and EC2 Instance Connect. | VPC • Subnets • NACLs • Security Groups • CloudWatch | [View the full project repository](https://github.com/Shanikah-Boyce/Building-a-Virtual-Private-Cloud) |
+| **CI/CD Pipeline for Java Web App** | Automated build, test, and deployment using AWS services. | CodePipeline • CodeBuild • CodeDeploy • CodeArtifact | [View the full project repository](https://github.com/Shanikah-Boyce/Building-an-Automated-CI-CD-Pipeline-with-AWS-for-Java-Web-Applications) |
+| **Dockerized Web App on Elastic Beanstalk** | Containerized and deployed a web app using Docker and AWS Elastic Beanstalk. | Docker • Elastic Beanstalk • Nginx • AWS CLI | [View the full project repository](https://github.com/Shanikah-Boyce/Deploying-a-Web-Application-Using-Docker) |
+| **BankerBot: AI Banking Assistant** | Serverless chatbot with Amazon Lex V2 and AWS Lambda for secure banking interactions. | Lex V2 • Lambda • IAM • FallbackIntent • Slot Types | [View the full project repository](https://github.com/Shanikah-Boyce/BankerBot-AI-Chatbot-with-Amazon-Lex-AWS-Lambda) |
 
 
 
