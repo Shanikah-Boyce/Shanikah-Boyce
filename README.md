@@ -10,10 +10,7 @@ I thrive in collaborative spaces where curiosity fuels innovation and learning n
 ---
 
 ## Technical Expertise
-
-### AWS Services & Expertise
-I leverage a broad range of AWS services to design secure, scalable, and automated cloud solutions:
-
+I leverage a broad range of AWS services to design secure, scalable and automated cloud solutions:
 - **Compute & Networking**: EC2, Lambda, VPC, API Gateway  
 - **Security & Identity**: IAM, Cognito, GuardDuty, CloudTrail, CloudWatch, Secrets Manager  
 - **Developer Tools & CI/CD**: CodePipeline, CodeBuild, CodeDeploy, CodeArtifact  
