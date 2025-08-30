@@ -11,17 +11,13 @@ I thrive in collaborative spaces where curiosity fuels innovation and learning n
 
 ## Technical Expertise
 I leverage a broad range of AWS services to design secure, scalable and automated cloud solutions:
-- **Compute & Networking**: EC2, Lambda, VPC, API Gateway  
-- **Security & Identity**: IAM, Cognito, GuardDuty, CloudTrail, CloudWatch, Secrets Manager  
-- **Developer Tools & CI/CD**: CodePipeline, CodeBuild, CodeDeploy, CodeArtifact  
-- **Infrastructure & Data Management**: CloudFormation, DynamoDB, Athena, QuickSight  
-- **Storage**: S3  
-
-### Other Technologies
-- Docker  
-- Linux  
-- Git & GitHub  
-
+- **Compute & Serverless**: EC2, Lambda  
+- **Networking & API Management**: VPC, API Gateway  
+- **Security & Monitoring**: IAM, Cognito, GuardDuty, CloudTrail, CloudWatch, Secrets Manager  
+- **CI/CD & DevOps**: CodePipeline, CodeBuild, CodeDeploy, CodeArtifact  
+- **Infrastructure as Code**: CloudFormation  
+- **Data & Analytics**: DynamoDB, Athena, QuickSight  
+- **Storage**: S3 
 ---
 
 ## Selected Projects
