@@ -110,7 +110,7 @@ hh
 ## Let's Connect
 I'm always open to networking and collaboration. Feel free to reach out!
 
-<a href="[https://www.linkedin.com/in/maximus-soare](https://bb.linkedin.com/in/shanikah-boyce/" target="blank">
+<a href="[https://bb.linkedin.com/in/shanikah-boyce]/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
