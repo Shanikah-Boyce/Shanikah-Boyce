@@ -19,11 +19,11 @@ I leverage a broad range of AWS services to design secure, scalable and automate
 - **Data & Analytics**: DynamoDB, Athena, QuickSight  
 - **Storage**: S3
 
-## Other Technologies 
-Docker, Linux, Git, GitHub
+### Other Technologies 
+- Docker, Linux, Git, GitHub
 ---
 
-## Selected Projects
+## Projects- showcase
 ### Secure AWS VPC Architecture
 Designed a secure and scalable AWS Virtual Private Cloud (VPC) architecture to support sensitive workloads with strong isolation, encrypted communication and layered network security.
 
