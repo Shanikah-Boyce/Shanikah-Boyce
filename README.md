@@ -97,8 +97,6 @@ Built a secure, serverless chatbot to streamline banking interactions using Amaz
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
 
 
-
-hh
 ---
 
 ## Certifications
@@ -110,7 +108,7 @@ hh
 ## Let's Connect
 I'm always open to networking and collaboration. Feel free to reach out!
 
-<a href="[https://bb.linkedin.com/in/shanikah-boyce]/" target="blank">
+<a href="https://bb.linkedin.com/in/shanikah-boyce/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
