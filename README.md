@@ -20,7 +20,7 @@ I leverage a broad range of AWS services to design secure, scalable and automate
 - **Storage**: S3
 
 ### Other Technologies 
-- Docker, Linux, Git, GitHub
+- Docker, Linux, Git, GitHub, Python
 ---
 
 ## Projects- showcase
